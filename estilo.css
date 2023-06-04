@@ -1,0 +1,22 @@
+body {
+    font-family: "Arial, Helvetica, sans-serif";
+    background-image:url("fundoPata.png");
+    
+}
+
+.divFormulario{
+    background-color: white;
+    width:600px ;
+    position:absolute;
+    top:20%;
+    left: 30%;
+}
+
+.titulo {
+    color:#0130E1;
+   font-size:30px; 
+}
+
+.validacao{
+    color: red;
+}
